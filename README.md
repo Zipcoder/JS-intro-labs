@@ -1,6 +1,8 @@
 # JS-intro-labs
 starter Javascript labs
 
+## Simple Coding Problems
+
 ## Chapters from Book on the three puzzles
 
 - cat
