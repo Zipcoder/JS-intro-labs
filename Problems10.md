@@ -1,6 +1,7 @@
 For each of these problems, write a short program that will compute
 and display the answer.
 
+## Strings
 
 ## Problem 10
 
@@ -18,7 +19,7 @@ Q6: Print out the states which DON'T start with "A"
 
 ## Problem 11
 
-let text = "The last thing I saw was the monkey trying to put the cork back in"
+let text = "the last thing I saw was the monkey trying to put the cork back in"
 
 Q1: split the text into an array of words (split the string on the spaces)
 Q2: using that array, print the length of each word

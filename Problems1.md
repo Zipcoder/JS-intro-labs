@@ -1,10 +1,12 @@
 For each of these problems, write a short program that will compute
 and display the answer.
 
+## Computation
+
 ## Problem 1
 
 The gas tank on our truck can hold 55.0 gallons of gas. 
-When going long distances, the truck get 8.5 miles per gallon.
+When going long distances, the truck gets 8.5 miles per gallon.
 
 Q1: How far can our truck go without re-fueling?
 

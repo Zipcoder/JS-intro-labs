@@ -1,6 +1,8 @@
 For each of these problems, write a short program that will compute
 and display the answer.
 
+## Arrays
+
 Some ZipCode students took a test. Here is an array with their scores.
 
 let testScores = [ 91, 82, 88, 87, 89, 94, 79];
@@ -9,7 +11,7 @@ let testScores = [ 91, 82, 88, 87, 89, 94, 79];
 
 Q1: What is the average/mean test score?
 
-remember the average is the sum of the scores divided by the number of scores.
+remember that an average is the sum of the scores divided by the number of scores.
 
 Q2: What is the last score in the array?
 Q3: Swap the first and the last scores in the array and print it out.
@@ -23,7 +25,7 @@ Q7: Now how long is the array? Print out the length
 ## Problem 22
 
 Q1: Print out each score on a line of its own
-Q2: Now do it backwards
+Q2: Now do it backwards, use a loop
 
 ## Problem 23
 
