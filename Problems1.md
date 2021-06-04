@@ -43,7 +43,7 @@ Q2: How about at $350 a month?
 
 Your old pal Gerald saw some chairs and a table and a grill for sale in a yard somewhere. (He's not quite sure)
 
-BUT he does rememeber that the chairs (4 of them) were $35 a piece, the table was $75 and the grill $22.
+BUT he does remember that the chairs (4 of them) were $35 a piece, the table was $75 and the grill $22.
 
 Q1: How much does the whole lot cost?
 Q2: Would low-ball an offer to try to get it all?
