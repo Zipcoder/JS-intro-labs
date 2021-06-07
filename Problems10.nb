@@ -45,6 +45,7 @@ let states = [ "Arizona", "Alabama", "Colorado", "Arkansas", "Wisconsin", "Illin
 # %% [markdown]
 ### Problem 11
 
+# %% [javascript]
 let text = "the last thing I saw was the monkey trying to put the cork back in"
 
 # %% [markdown]
@@ -66,9 +67,10 @@ let text = "the last thing I saw was the monkey trying to put the cork back in"
 # %% [markdown]
 ### Problem 12
 
-let text = "how much wood can a woodchuck chuck if a woodchuck could chuck wood"
+Transform the original string into a new string, and print the new string.
 
-print out each string after transforming the original into a new string
+# %% [javascript]
+let text = "how much wood can a woodchuck chuck if a woodchuck could chuck wood"
 
 # %% [markdown]
 ### Q1: build a new string with no "wood" or "chuck" in it
