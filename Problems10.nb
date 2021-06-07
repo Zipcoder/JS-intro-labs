@@ -1,0 +1,93 @@
+# %% [markdown]
+## Strings
+
+For each of these problems, write a short program that will compute
+and display the answer.
+
+### Problem 10
+
+# %% [javascript]
+let states = [ "Arizona", "Alabama", "Colorado", "Arkansas", "Wisconsin", "Illinois", "Utah"];
+
+# %% [markdown]
+### Q1: Using a loop, Print out each string on its own line
+# %% [javascript]
+// put your solution here.
+
+# %% [markdown]
+### Q2: Using a loop, print out the length of each state's name
+# %% [javascript]
+// put your solution here.
+
+
+// Using loops to find each of these
+
+# %% [markdown]
+### Q3: Print out the state with the shortest name
+# %% [javascript]
+// put your solution here.
+
+# %% [markdown]
+### Q4: Print out the state with the longest name
+# %% [javascript]
+// put your solution here.
+
+# %% [markdown]
+### Q5: Print out the states which start with "A"
+# %% [javascript]
+// put your solution here.
+
+# %% [markdown]
+### Q6: Print out the states which DON'T start with "A"
+# %% [javascript]
+// put your solution here.
+
+# %% [markdown]
+### Problem 11
+
+let text = "the last thing I saw was the monkey trying to put the cork back in"
+
+# %% [markdown]
+### Q1: split the text into an array of words (split the string on the spaces)
+# %% [javascript]
+// put your solution here.
+
+# %% [markdown]
+### Q2: using that array, print the length of each word
+# %% [javascript]
+// put your solution here.
+
+
+# %% [markdown]
+### Q3: create a new string with the words in reverse order
+# %% [javascript]
+// put your solution here.
+
+# %% [markdown]
+### Problem 12
+
+let text = "how much wood can a woodchuck chuck if a woodchuck could chuck wood"
+
+print out each string after transforming the original into a new string
+
+# %% [markdown]
+### Q1: build a new string with no "wood" or "chuck" in it
+# %% [javascript]
+// put your solution here.
+
+# %% [markdown]
+### Q2: replace "wood" with "pasta"
+# %% [javascript]
+// put your solution here.
+
+# %% [markdown]
+### Q3: replace "chuck" with "hound"
+# %% [javascript]
+// put your solution here.
+
+
+# %% [markdown]
+### Q4: replace "wood" with "pasta" AND "chuck" with "hound"
+# %% [javascript]
+// put your solution here.
+

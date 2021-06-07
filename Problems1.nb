@@ -14,10 +14,10 @@ console.log(x);
 
 
 # %% [markdown]
-## Computation
+### Computation
 
 # %% [markdown]
-## Problem 1
+### Problem 1
 
 The gas tank on our truck can hold 55.0 gallons of gas. 
 When going long distances, the truck gets 8.5 miles per gallon.
@@ -55,7 +55,7 @@ travel_time = total_distance / mph;
 console.log(travel_time.toFixed(2));
 
 # %% [markdown]
-## Problem 2
+### Problem 2
 
 Pets. You try to live with them, but they expect to eat everyday. 
 
@@ -63,9 +63,15 @@ Your Pekinese "Fluffy" eats twice a day, 1.6 _pounds(!)_ of dog chow at each mea
 
 # %% [markdown]
 ### Q1: How many days will a 50 lb bag of chow last?
+# %% [javascript]
+// put your solution here.
+
 
 # %% [markdown]
 ### Q2: How many days will 3 bags of 20 lbs last?
+# %% [javascript]
+// put your solution here.
+
 
 Finally, since "Fluffy" is obviously now a _small_ dog, if we could get a *ton* of
 food delivered in a large bin, 
@@ -74,9 +80,12 @@ food delivered in a large bin,
 ### Q3: how long would that bin last?
 
 A ton, you will recall, is 2200 pounds.
+# %% [javascript]
+// put your solution here.
+
 
 # %% [markdown]
-## Problem 3
+### Problem 3
 
 If you bought a new sofa-lounge-mosh-pit for all your binge streaming from Lazy Ike's furniture store,
 you know, the place down there next to that taco place you've been meaaning to try, for $2368. (tax included),
@@ -93,7 +102,7 @@ At 0% interest,
 // put your solution here.
 
 # %% [markdown]
-## Problem 4
+### Problem 4
 
 Your old pal Gerald saw some chairs and a table and a grill for sale in a yard somewhere. (He's not quite sure)
 
@@ -148,5 +157,3 @@ BUT he does remember that the chairs (4 of them) were $35 a piece, the table was
 # %% [javascript]
 // put your solution here.
 
-let x = 10;
-console.log(x);
