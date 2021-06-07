@@ -1,18 +1,11 @@
 # JS-intro-labs
 starter Javascript labs
 
+a potential notebook solution for these kinds of problems
+https://github.com/gzuidhof/starboard-notebook
+
 ## Simple Coding Problems
 
-## Chapters from Book on the three puzzles
-
-- cat
-- cell
-- speed/distance?
-
-## Fruit Man Produce
-
-- lists of fruits
-- add qty
-- add price
-- simple matrix
+Each of these files have problems in them for you to solve.
+Each file has a few exercises around a particular topic.
 
