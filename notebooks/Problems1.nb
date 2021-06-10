@@ -9,8 +9,8 @@ and display the answer.
 # %% [javascript]
 // put your solution here.
 
-let x = 10;
-console.log(x);
+let x = 10.00;
+console.log(""+x);
 
 
 # %% [markdown]
